@@ -36,3 +36,7 @@ Fun fact **I'm a polyglot**
 <a href="mariaeduantunes200281@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
+<a href="https://in.linkedin.com/in/maria-eduarda-antunes-73a416223">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</div>
