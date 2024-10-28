@@ -17,16 +17,27 @@ Here are some ideas to get you started:
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=maraiii.maraiii"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text/></h1>
+<img src="[https://readme-typing-svg.demolab.com/?lines=A+wizard+is+never+late%2C+nor+is+he+early;&lines=he+arrives+precisely+when+he+means+to&center=true&size=30&color=FFFFFF&v=1]"/>
 
-<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
+
+
+
+
+
+
+<br/>
+
+## A passionate software developer from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="20" height="20"/>
+<br/> 
+
+
 
 <br/>
 <div align="center">
 
-I'm currently working on a web app about **trees register**
+I'm currently working on a web app focused on **tree registration**. 
 
-I'm currently learning **React.js**
+I'm currently learning **React.js** 
 
 Fun fact **I'm a polyglot**
 
@@ -36,7 +47,31 @@ Fun fact **I'm a polyglot**
 <a href="mariaeduantunes200281@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-<a href="https://in.linkedin.com/in/maria-eduarda-antunes-73a416223">
+<a href="https://in.linkedin.com/in/maria-eduarda-antunes-73a416223"></a>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </div>
+<br/>
+
+## 🌐💻 Languages and Frameworks Tools
+
+<br/>
+<div align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,js,mysql,sass,tailwind,ts,react"/>
+  </a>
+</div>
+
+## 📚 Linguagens e Frameworks que Pretendo Estudar
+
+| Linguagens             | Frameworks & Bibliotecas | Ferramentas & Tecnologias |
+|:-----------------------:|:------------------------:|:-------------------------:|
+| - [ ] Rust              | - [ ] React              | - [ ] Docker              |
+| - [ ] Go                | - [ ] Vue.js             | - [ ] Kubernetes          |
+| - [ ] Kotlin            | - [ ] Django             | - [ ] GraphQL            |
+| - [ ] Swift             | - [ ] Spring Boot        | - [ ] Terraform           |
+<!--
+<div align="center">
+<h2>My Contributions</h2>
+<img alt="snake eating" src="" />  
+-->
