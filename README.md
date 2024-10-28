@@ -12,13 +12,9 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?weight=500&size=50&duration=1150&pause=100&color=FFFFFF&background=FF000000&center=true&vCenter=true&width=900&height=200&lines=All+we+have+to+decide+is;what+to+do+with+the+time;that+is+given+to+us."/>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?weight=500&size=50&duration=1150&pause=100&color=FFFFFF&background=FF000000&center=true&vCenter=true&width=900&height=150&lines=All+we+have+to+decide+is;what+to+do+with+the+time;that+is+given+to+us."/>
 
 ### 🌟 A passionate software developer from Brazil 🇧🇷 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="20" height="20"/>
-
-<br/>
 
 I'm currently working on a **web app focused on tree registration** 🌳 and diving into **React.js** 🚀. 
 
