@@ -34,18 +34,19 @@ I'm currently learning **React.js**
 
 Fun fact **I'm a polyglot**
 
-<br/>
+##
+
+# 🌐💻 Languages and Frameworks Tools
 
 
-<br/>
-
-## 🌐💻 Languages and Frameworks Tools
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,python,cs,dotnet,js,mysql,sass,tailwind,ts,react"/>
 </a>
 
-<br/>
+##
+
+
 
 ## 🚀 Languages & Frameworks I Ought to Explore 💻🚀
 
