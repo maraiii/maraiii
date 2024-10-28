@@ -1,42 +1,33 @@
-## Hi there 👋
-
-<!--
-**maraiii/maraiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there! 👋 I'm Maria
 
 <div align="center">
+  <img src="./img/banner-4.jpg" alt="Banner" width="100%" />
+</div>
+
+
+<div align="right">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=maraiii.maraiii"/>
 
-<h1>
+</div>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?weight=500&size=50&duration=1150&pause=100&color=FFFFFF&background=FF000000&center=true&vCenter=true&width=900&height=200&lines=All+we+have+to+decide+is;what+to+do+with+the+time;that+is+given+to+us."/>
 </h1>
 
-## A passionate software developer from Brazil 
+### 🌟 A passionate software developer from Brazil 🇧🇷 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="20" height="20"/>
 
 <br/>
 
-I'm currently working on a web app focused on **tree registration**. 
+I'm currently working on a **web app focused on tree registration** 🌳 and diving into **React.js** 🚀. 
 
-I'm currently learning **React.js** 
+**Fun fact**: I'm a polyglot! 🌍
 
-Fun fact **I'm a polyglot**
+---
 
-##
+## 🌐💻 Languages and Frameworks Tools
 
-# 🌐💻 Languages and Frameworks Tools
 
 
 
@@ -48,7 +39,7 @@ Fun fact **I'm a polyglot**
 
 
 
-## 🚀 Languages & Frameworks I Ought to Explore 💻🚀
+## 🚀 Languages & Frameworks I Ought to Explore 🚀
 
 
 | Linguagens             | Frameworks & Bibliotecas | Ferramentas & Tecnologias |
@@ -66,15 +57,17 @@ Fun fact **I'm a polyglot**
 <div align="center">
   Feel free to reach out: 
 
-  </br>
-  
-  <a href="mariaeduantunes200281@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <br/>
+
+  <a href="mailto:mariaeduantunes200281@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
   <a href="https://in.linkedin.com/in/maria-eduarda-antunes-73a416223">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
 </div>
+
+
 
 
 
