@@ -32,6 +32,9 @@ I'm currently working on a **web app focused on tree registration** 🌳 and div
 ##
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maraiii&show_icons=true&hide_title=true&count_private=true&theme=radical)
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maraiii&layout=compact&theme=dark)
 
  🚀  
 
