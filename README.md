@@ -26,7 +26,7 @@ I'm currently working on a **web app focused on tree registration** 🌳 and div
 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,python,cs,dotnet,js,mysql,sass,tailwind,ts,react,azure,figma,discord&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=git,html,css,python,cs,dotnet,js,mysql,sass,tailwind,ts,react,azure,figma,photoshop&perline=5"/>
 </a>
 
 ##
