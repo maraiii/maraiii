@@ -1,8 +1,8 @@
-## Hi there! 👋 I'm Maria
+## Hi! 👋 I'm Maria 
 
-<div align="center">
+<!--<div align="center">
   <img src="./img/gif-2.gif" alt="Banner" width="100%" />
-</div>
+</div> -->
 
 
 <div align="right">
@@ -12,24 +12,24 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?weight=500&size=50&duration=1150&pause=100&color=FFFFFF&background=FF000000&center=true&vCenter=true&width=900&height=150&lines=All+we+have+to+decide+is;what+to+do+with+the+time;that+is+given+to+us."/>
+<img src="https://readme-typing-svg.demolab.com?weight=500&size=50&duration=1150&pause=100&color=FFFFFF&background=FF000000&center=true&vCenter=true&width=900&height=150&lines=Helping+eachother;+there's+nothing+we+can't+do."/>
 
-### 🌟 A passionate software developer from Brazil 🇧🇷 
+### 🌟
 
-I'm currently working on a **web app focused on tree registration** 🌳 and diving into **React.js** 🚀. 
+### Building a distributed financial control system. Sharpening my skills in Node.js and Docker to drive scalability and efficiency. 
 
-**Fun fact**: I'm a polyglot! 🌍
 
----
 
-## 🌐💻 Languages and Frameworks Tools
+
+
+## Technologies and other informations
 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,python,cs,dotnet,js,mysql,sass,tailwind,ts,react,azure,figma,photoshop&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,sass,tailwind,ts,react,figma,photoshop&perline=5"/>
 </a>
 
-##
+</br>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maraiii&show_icons=true&hide_title=true&count_private=true&theme=synthwave)
 </br>
@@ -38,26 +38,10 @@ I'm currently working on a **web app focused on tree registration** 🌳 and div
 
  🚀  
 
-## 🌟 Languages & Frameworks I Ought to Explore
-
-<div align="center">
-
-| 🌐 **Languages**                                                              | 🚀 **Frameworks & Libraries**                                               | 🛠️ **Tools & Technologies**                                                 |
-|:-----------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| ![Flutter](https://img.shields.io/badge/Flutter-3D7EAA?style=flat-square&logo=flutter) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)        |
-| **Flutter** (mobile)                                                         | **Angular** (web)                                                          | **Docker** (containerization)                                              |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)    | ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js)   | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) |
-| **Go** (backend)                                                             | **Vue.js** (web)                                                           | **Kubernetes** (orchestration)                                            |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)   | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)    |
-| **Kotlin** (mobile)                                                          | **Django** (backend)                                                       | **GraphQL** (API queries)                                                |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform) |
-| **Java** (backend)                                                           | **Spring Boot** (backend)                                                | **Terraform** (infrastructure as code)                                    |
-
-</div>
 
 </br>
 
-## 🌍 Current Study Languages
+## Studying Languages
 
 ![English](https://img.shields.io/badge/English-fluent-brightgreen)
 ![Portuguese](https://img.shields.io/badge/Portuguese-native-blue)
@@ -68,11 +52,11 @@ I'm currently working on a **web app focused on tree registration** 🌳 and div
 ![German](https://img.shields.io/badge/German-basic-red)
 ![Russian](https://img.shields.io/badge/Russian-basic-red)
 
+**Fun fact**: I'm almost a polyglot! 🌍
 
 
-## 💬 Let's Connect!
+## 💬 How to reach out nowadays
 <div align="center">
-  Feel free to reach out: 
 
   <br/>
 
@@ -85,14 +69,3 @@ I'm currently working on a **web app focused on tree registration** 🌳 and div
 </div>
 
 
-
-
-
-
-
-
-<!--
-<div align="center">
-<h2>My Contributions</h2>
-<img alt="snake eating" src="" />  
--->
