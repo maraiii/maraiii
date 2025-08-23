@@ -41,7 +41,7 @@
 
 </br>
 
-## Studying Languages
+## Languages
 
 ![English](https://img.shields.io/badge/English-fluent-brightgreen)
 ![Portuguese](https://img.shields.io/badge/Portuguese-native-blue)
@@ -52,7 +52,6 @@
 ![German](https://img.shields.io/badge/German-basic-red)
 ![Russian](https://img.shields.io/badge/Russian-basic-red)
 
-**Fun fact**: I'm almost a polyglot! 🌍
 
 
 ## 💬 How to reach out nowadays
