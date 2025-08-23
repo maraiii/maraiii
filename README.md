@@ -45,12 +45,7 @@
 
 ![English](https://img.shields.io/badge/English-fluent-brightgreen)
 ![Portuguese](https://img.shields.io/badge/Portuguese-native-blue)
-![Spanish](https://img.shields.io/badge/Spanish-intermediate-orange)
-![French](https://img.shields.io/badge/French-intermediate-orange)
-![Italian](https://img.shields.io/badge/Italian-intermediate-orange)
-![Korean](https://img.shields.io/badge/Korean-basic-red)
-![German](https://img.shields.io/badge/German-basic-red)
-![Russian](https://img.shields.io/badge/Russian-basic-red)
+
 
 
 
